@@ -3,6 +3,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
 body {
     font-family: Fira Code SemiBold, monospace;
+
 }
+
+.header, footer, .col-main {
+    border: 2px solid;
+    border-color: rgb(71, 71, 71);
+    margin: 8px;
+    transition: 0.2s ease-in-out;
+}
+
+.header:hover, .footer:hover, .col-main:hover {
+    border-color: white;
+}
+
+.article__footer {
+    border: 0px transparent;
+}
+
+.col-main {
+    padding: 8px;
+}
+
 
 /* end custom scss snippet */

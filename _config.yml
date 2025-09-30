@@ -18,8 +18,8 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://eveee00.xyz
-baseurl : eveee00.xyz
+url     : 
+baseurl : 
 title   : eveee's blog
 description: > # this means to ignore newlines until "Language & timezone"
   i do stuff... sometimes
@@ -36,7 +36,7 @@ timezone: Europe/Berlin
 author:
   type      : person
   name      : eveee00
-  url       : https://eveee00.xyz
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       : i do stuff... sometimes
   email     :
