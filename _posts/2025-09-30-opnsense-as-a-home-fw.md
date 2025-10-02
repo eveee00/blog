@@ -41,6 +41,7 @@ Last thing for me to do is to configure my FRITZ!Box 7530 (that was my modem/rou
 For that, I had to set it to function as an IP client:
 
 ![FRITZ!Box set to IP Client mode](/assets/img/opnsense_as_a_home_fw/fb_lan.png)
+
 _Note: This was auto-translatred by firefox. I was too lazy to set it to english. Sorry!_
 {:.info}
 
